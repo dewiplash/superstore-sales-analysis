@@ -1,4 +1,4 @@
-# Superstore Sales Analysis (SQL Server + Power BI)
+# Superstore Sales Analysis (Data Analytics Project)
 
 ## 🎯 Objective
 Analyze public retail sales data to identify trends and performance insights related to:
