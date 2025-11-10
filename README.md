@@ -31,5 +31,5 @@ Source: [Kaggle – Superstore Sales Dataset](https://www.kaggle.com/datasets/vi
 - Sales peak in November and December, indicating strong seasonality during the holiday season.
 
 ## Visuals
-A Power BI dashboard was created to present KPIs and key visuals clearly and interactively.
+A Tableau dashboard was created to present KPIs and key visuals clearly and interactively.
 It includes metrics such as total sales, total profit, profit margin, sales by region and category, top products, and discount impact.
