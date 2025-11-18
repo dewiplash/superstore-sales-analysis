@@ -31,7 +31,7 @@ Source: [Kaggle – Superstore Sales Dataset](https://www.kaggle.com/datasets/vi
 - Monthly sales show recognizable seasonality patterns, with year-end peaks that can inform inventory and promotional planning.
 
 ## Visuals
-A Tableau dashboard was created to present KPIs and key visuals clearly and interactively.
+A Tableau dashboard was created to present KPIs and key visuals clearly.
 It includes metrics such as total sales, total profit, profit margin, sales category and sub-category, top products, and discount impact.
 
 
