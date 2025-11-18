@@ -35,4 +35,4 @@ A Tableau dashboard was created to present KPIs and key visuals clearly and inte
 It includes metrics such as total sales, total profit, profit margin, sales category and sub-category, top products, and discount impact.
 
 
-![Visuals](visuals/dashboard_superstore.png)
+![Visuals](visuals/dashboard-superstore.png)
